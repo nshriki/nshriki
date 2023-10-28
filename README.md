@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @nshriki
-- 👀 BSIT1-A1
+- 👋 Hi, I’m Bren D. Sohon | @nshriki
+- 👩‍💻 BSIT 1 - A1
 - 🌱 Southwestern University PHINMA
-- 📫 email: brensohon731@gmail.com
+- 📫 Personal Email: brensohon731@gmail.com
+- 🏫 School Email: brdi.sohon.swu@phinmaed.com
